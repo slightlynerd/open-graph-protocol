@@ -5,7 +5,7 @@ This folder contains a starting point for implementing open graph tags.
 ## Setup
 
 ```
-git clone https://github.com/slightlynerd/slightlynerd.github.io.git open-graph-protocol
+git clone https://github.com/slightlynerd/open-graph-protocol.git
 ```
 
 ### Testing
